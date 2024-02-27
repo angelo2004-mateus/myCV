@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+section {
+    transition: .5s ease;
+}
+
+button {
+    width: 2vw;
+    height: 2vw;
+    border-radius: 100%;
+}
